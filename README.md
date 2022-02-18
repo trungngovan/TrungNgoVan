@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Trung</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=teddythinh&theme=buddhism&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=teddythinh&theme=buddhism&margin-w=25&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="center">I'm freshman of the department of mathematics - informatics from Viet Nam</h3>
 
