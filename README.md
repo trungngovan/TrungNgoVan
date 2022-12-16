@@ -4,8 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=trungngovan&theme=buddhism&margin-w=25&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="center">I'm second year of the department of mathematics - informatics from Viet Nam</h3>ư
-
+<h3 align="center">I'm second year of the department of mathematics - informatics from Viet Nam</h3>
 
 ## 🙋‍♂️ About Me
 - 🏫 I’m currently studying at [**University of Science, VNU-HCM**](https://www.hcmus.edu.vn/).
