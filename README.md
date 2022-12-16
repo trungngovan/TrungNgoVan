@@ -4,13 +4,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=trungngovan&theme=buddhism&margin-w=25&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="center">I'm freshman of the department of mathematics - informatics from Viet Nam</h3>
+<h3 align="center">I'm second year of the department of mathematics - informatics from Viet Nam</h3>ư
 
 
 ## 🙋‍♂️ About Me
 - 🏫 I’m currently studying at [**University of Science, VNU-HCM**](https://www.hcmus.edu.vn/).
 - 🔭 I’m currently teaching assistant on **[Kmin Academin](https://kmin.edu.vn/)**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
