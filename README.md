@@ -8,21 +8,21 @@
 
 ## 🙋‍♂️ About Me
 
-- 🏫 I’m currently studying at [University of Science, VNU-HCM](https://www.hcmus.edu.vn/)
+- 🏫 I’m currently studying at [**University of Science, VNU-HCM**](https://www.hcmus.edu.vn/)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning [**Django**](https://www.djangoproject.com/)
 
-- 🤝 I had a 6-month internship experience at [Approi](https://www.approi.co/)
+- 🤝 I had a 6-month internship experience at [**Approi**](https://www.approi.co/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/TrungNgoVan](https://github.com/TrungNgoVan)
+- 👨‍💻 All of my projects are available at [**Github**](https://github.com/TrungNgoVan)
 
-- 📝 I regularly write articles on [https://trungngovan.github.io/blog/](https://trungngovan.github.io/blog/)
+- 📝 I regularly write articles on [**my blog**](https://trungngovan.github.io/blog/)
 
 - 💬 Ask me about **Django, Python, API, MySQL, MinIO**
 
 - 📫 How to reach me **trung2601.it@gmail.com**
 
-- 📄 Know about my experiences [https://trungngovan.github.io/blog/cv.pdf](https://trungngovan.github.io/blog/cv.pdf)
+- 📄 Know about my experience on [**my CV**](https://trungngovan.github.io/blog/cv.pdf)
 
 - ⚡ Fun fact **I'm pretty good at games but I'm lazy at games**
 
