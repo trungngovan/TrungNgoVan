@@ -4,24 +4,24 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=trungngovan&theme=buddhism&margin-w=25&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="center">I'm second year of the department of Mathematics & Computer Science at University of Science, VNU-HCM</h3>
+<h3 align="center">I'm junior year of the department of Mathematics & Computer Science at University of Science, VNU-HCM</h3>
 
 ## 🙋‍♂️ About Me
 
 - 🏫 I’m currently studying at [**University of Science, VNU-HCM**](https://www.hcmus.edu.vn/).
-- 🔭 I’m currently teaching assistant on **[Kmin Academin](https://kmin.edu.vn/)**
+- 🔭 I had a 6-month internship experience at **[Approi](https://www.approi.co/)**
 - 📫 How to reach me **trung2601.it@gmail,com**
-- ⚡ Fun fact **I play game and listen music very often**
+- ⚡ Fun fact **I often read articles about technology and listen to music**
 
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="Go" src="https://img.shields.io/badge/Golang%20-%2314354C.svg?logo=go&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%23663366.svg?logo=python&logoColor=white"></a>
+    <!-- <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a> -->
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <!-- <a href="#"><img alt="Go" src="https://img.shields.io/badge/Golang%20-%2314354C.svg?logo=go&logoColor=white"></a> -->
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 
@@ -30,11 +30,12 @@
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-00CC33.svg?logo=spotify&logoColor=white"></a>
+    <!-- <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-00CC33.svg?logo=spotify&logoColor=white"></a> -->
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github%20-%23000000.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-333366.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm.svg?logo=pycharm&logoColor=white"></a>
 </p>
 
 ## 📊 My Github Stats
