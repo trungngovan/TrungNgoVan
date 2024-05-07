@@ -8,34 +8,60 @@
 
 ## 🙋‍♂️ About Me
 
-- 🏫 I’m currently studying at [**University of Science, VNU-HCM**](https://www.hcmus.edu.vn/).
-- 🔭 I had a 6-month internship experience at **[Approi](https://www.approi.co/)**
-- 📫 How to reach me **trung2601.it@gmail,com**
-- ⚡ Fun fact **I often read articles about technology and listen to music**
+- 🏫 I’m currently studying at [University of Science, VNU-HCM](https://www.hcmus.edu.vn/)
+
+- 🌱 I’m currently learning **Django**
+
+- 🤝 I had a 6-month internship experience at [Approi](https://www.approi.co/)
+
+- 👨‍💻 All of my projects are available at [https://github.com/TrungNgoVan](https://github.com/TrungNgoVan)
+
+- 📝 I regularly write articles on [https://trungngovan.github.io/blog/](https://trungngovan.github.io/blog/)
+
+- 💬 Ask me about **Django, Python, API, MySQL, MinIO**
+
+- 📫 How to reach me **trung2601.it@gmail.com**
+
+- 📄 Know about my experiences [https://trungngovan.github.io/blog/cv.pdf](https://trungngovan.github.io/blog/cv.pdf)
+
+- ⚡ Fun fact **I'm pretty good at games but I'm lazy at games**
 
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
 
-<p>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%23663366.svg?logo=python&logoColor=white"></a>
-    <!-- <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a> -->
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <!-- <a href="#"><img alt="Go" src="https://img.shields.io/badge/Golang%20-%2314354C.svg?logo=go&logoColor=white"></a> -->
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
 </p>
 
-### 💻 Software and tools
+### Database
+<p align="left">
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+</p>
 
-<p>
-    <!-- <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-00CC33.svg?logo=spotify&logoColor=white"></a> -->
-    <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github%20-%23000000.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-333366.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm.svg?logo=pycharm&logoColor=white"></a>
+
+### 👨‍💻 Frameworks
+<p align="left">
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+</p>
+
+
+### 💻 Software and tools
+<p align="left">
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
 ## 📊 My Github Stats
@@ -48,12 +74,11 @@
 
 ## Connect with me:
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/trung-ngo-van-1382691aa/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.youtube.com/channel/UCYeMqqMFkIzXzdAwLPGe--Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://www.facebook.com/TrungNgo2601/" ><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-
+<a href="https://linkedin.com/in/trungngovan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trungngovan" height="30" width="40" /></a>
+<a href="https://fb.com/nvtrung.it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nvtrung.it" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nvtrung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nvtrung" height="30" width="40" /></a>
 </p>
 
 ## ❤ Views and Followers
