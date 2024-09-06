@@ -4,13 +4,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=trungngovan&theme=buddhism&margin-w=25&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="center">I'm junior year of the department of Mathematics & Computer Science at University of Science, VNU-HCM</h3>
+<h3 align="center">I'm final-year of the department of Mathematics & Computer Science at University of Science, VNU-HCM</h3>
 
 ## 🙋‍♂️ About Me
 
 - 🏫 I’m currently a final-year student at [**University of Science, VNU-HCM**](https://www.hcmus.edu.vn/)
 
-- 👨‍💻 I’m also working as a **Fresher Python developer** at [Saritasa](https://www.saritasa.com/)
+- 👨‍💻 I’m also working as a **Fresher Python developer** at [**Saritasa**](https://www.saritasa.com/)
 
 - 🤝 I had a 6-month internship experience at [**Approi**](https://www.approi.co/)
 
@@ -47,7 +47,6 @@
 ### 👨‍💻 Frameworks
 <p align="left">
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
