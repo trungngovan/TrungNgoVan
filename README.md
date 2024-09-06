@@ -8,9 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🏫 I’m currently studying at [**University of Science, VNU-HCM**](https://www.hcmus.edu.vn/)
+- 🏫 I’m currently a final-year student at [**University of Science, VNU-HCM**](https://www.hcmus.edu.vn/)
 
-- 🌱 I’m currently learning [**Django**](https://www.djangoproject.com/)
+- 👨‍💻 I’m also working as a **Fresher Python developer** at [Saritasa](https://www.saritasa.com/)
 
 - 🤝 I had a 6-month internship experience at [**Approi**](https://www.approi.co/)
 
@@ -18,13 +18,11 @@
 
 - 📝 I regularly write articles on [**my blog**](https://trungngovan.github.io/blog/)
 
-- 💬 Ask me about **Django, Python, API, MySQL, MinIO**
+- 💬 Ask me about **Django, Python, API, MySQL, MinIO, Docker, Postgresql**
 
 - 📫 How to reach me **trung2601.it@gmail.com**
 
 - 📄 Know about my experience on [**my CV**](https://trungngovan.github.io/blog/cv.pdf)
-
-- ⚡ Fun fact **I'm pretty good at games but I'm lazy at games**
 
 ## 🛠️ My favorite tools
 
