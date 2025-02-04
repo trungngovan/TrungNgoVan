@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=trungngovan&theme=buddhism&margin-w=25&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="center">I'm final-year of the department of Mathematics & Computer Science at University of Science, VNU-HCM</h3>
+<h3 align="center">I'm final-year of the department of Mathematics & Computer Science at University of Science, VNU-HCM, and I'm a Python Developer</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -12,19 +12,17 @@
 
 - 👨‍💻 I’m also working as a **Fresher Python developer** at [**Saritasa**](https://www.saritasa.com/)
 
-- 🤝 I had a 6-month internship experience at [**Approi**](https://www.approi.co/)
-
 - 👨‍💻 All of my projects are available at [**Github**](https://github.com/TrungNgoVan)
 
 - 📝 I regularly write articles on [**my blog**](https://trungngovan.github.io/blog/)
 
-- 💬 Ask me about **Django, Python, API, MySQL, MinIO, Docker, Postgresql**
+- 💬 Ask me about **Django, Python, API, MySQL, MinIO, Docker, Postgresql, DRF, FastAPI**
 
 - 📫 How to reach me **trung2601.it@gmail.com**
 
 - 📄 Know about my experience on [**my CV**](https://trungngovan.github.io/blog/cv.pdf)
 
-## 🛠️ My favorite tools
+## 🛠️ My favourite tools
 
 ### 👨‍💻 Programming languages
 
@@ -48,7 +46,10 @@
 <p align="left">
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="40" height="40"/>
+</a>
 </p>
 
 
