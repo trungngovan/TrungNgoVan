@@ -8,19 +8,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🏫 I’m currently a final-year student at [**University of Science, VNU-HCM**](https://www.hcmus.edu.vn/)
+- 👨‍💻 I’m working as a **Junior Python developer & AI engineer** at [**Saritasa**](https://www.saritasa.com/)
 
-- 👨‍💻 I’m also working as a **Fresher Python developer** at [**Saritasa**](https://www.saritasa.com/)
+- 📝 I regularly write articles on [**my blog**](https://henryngoo.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [**Github**](https://github.com/TrungNgoVan)
-
-- 📝 I regularly write articles on [**my blog**](https://trungngovan.github.io/blog/)
-
-- 💬 Ask me about **Django, Python, API, MySQL, MinIO, Docker, Postgresql, DRF, FastAPI**
+- 💬 Ask me about **Django, Python, API, MySQL, MinIO, Docker, Postgresql, DRF, FastAPI, LLM, AI**
 
 - 📫 How to reach me **trung2601.it@gmail.com**
 
-- 📄 Know about my experience on [**my CV**](https://trungngovan.github.io/blog/cv.pdf)
+- 📄 Know about my experience on [**my CV**](https://henryngoo.vercel.app/CV.pdf)
 
 ## 🛠️ My favourite tools
 
